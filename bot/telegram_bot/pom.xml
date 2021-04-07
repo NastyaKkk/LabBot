@@ -10,7 +10,7 @@
         <groupId>kpi.acts</groupId>
         <artifactId>parent</artifactId>
         <version>2019.1</version>
-        <relativePath>../pom.xml</relativePath>
+        <relativePath>../../pom.xml</relativePath>
     </parent>
 
     <dependencies>
